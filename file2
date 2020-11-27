@@ -1,2 +1,3 @@
 created a file2 in branch1
 REquirement to apply a patch in file2. Hence Hotfix team will do a quick fix.
+Found changes not reflected on master and release branches after push.. hence retesting the changes. To puch it again ensuring to commit.
